@@ -33,3 +33,7 @@ E se isso tudo (ou algo disso) lhe incomoda ou lhe faz pensar imediatamente em "
 Aos amigos que sabem disso tudo aí em cima mas se incomodam com o proselitismo ou ativismo que faço nesta "rede social", um convite: vamos beber e nos encontrar mais. O olho no olho derrete muita coisa que se congela no digital.
 
 Grato, a gerência.
+
+--
+A declaração original foi escrita por Zander Catta Pretta aqui: 
+https://github.com/zandercp/idealism_standard_declaration/blob/master/README.md
