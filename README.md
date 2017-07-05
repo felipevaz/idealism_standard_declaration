@@ -1,0 +1,1 @@
+# idealism_standard_declaration
